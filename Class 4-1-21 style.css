@@ -1,0 +1,11 @@
+body {
+    background-color: crimson;
+}
+
+.firstdiv {
+    border-style: dotted;
+}
+
+#seconddiv {
+    border-style: groove;
+}
